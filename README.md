@@ -19,11 +19,19 @@
   </a>
 </div>
 
+
+
+
 ---
 
-<img align="center" height="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pvNTN6bDQ2NzF5bWFuc2IyODZqeWpiOGFwc2xreDJqYXJya3E3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" />
+<!-- GIF في المنتصف -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pvNTN6bDQ2NzF5bWFuc2IyODZqeWpiOGFwc2xreDJqYXJya3E3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" height="out Me
+Dedicated SOC Analyst passionate about Threat Hunting, Digital Forensics, SIEM Engineering, and Malware Analysis.  
+Focused on building real-world labs, improving detection logic, and mastering incident response workflows.
 
-<br clear="both">
+
+
 
 
 ---
@@ -43,6 +51,7 @@ Focused on building real-world labs, improving detection logic, and mastering in
 </p>
 
 ---
+</div>
 
 ##  Skills & Tools
 
@@ -87,9 +96,9 @@ Focused on building real-world labs, improving detection logic, and mastering in
 ---
 
 ##  Highlighted Projects
-- **Email Phishing Analysis Lab**  
-  Full email header analysis, URL detonation, hash reputation checks, automated reporting.  
-
+- **Email Phishing Analyzer**  
+  Full SOC-grade email phishing analysis tool: fetches emails from IMAP, performs header analysis (SPF, DKIM, DMARC), extracts and checks URLs, analyzes attachments (hash, type, YARA rules), detects phishing in HTML content, integrates VirusTotal, and generates automated PDF/HTML reports with a web dashboard.  
+  🔗 [GitHub Repository](https://github.com/ahmddd1/email-phishing-analyzer)
 - **Malware Analysis Lab**  
   Basic static/dynamic analysis, IOC extraction, YARA patterns.  
 
