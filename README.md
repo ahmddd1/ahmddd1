@@ -21,8 +21,8 @@
 
 ---
 
-<img align="right" height="100%" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" />
-<img align="left" height="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pvNTN6bDQ2NzF5bWFuc2IyODZqeWpiOGFwc2xreDJqYXJya3E3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" />
+<img align="right" height="50%" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" />
+<img align="left" height="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pvNTN6bDQ2NzF5bWFuc2IyODZqeWpiOGFwc2xreDJqYXJya3E3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" />
 
 <br clear="both">
 
@@ -102,4 +102,3 @@ Focused on building real-world labs, improving detection logic, and mastering in
 
 ---
 
-<p align="center">🚀 Keep pushing. Keep hunting.</p>
