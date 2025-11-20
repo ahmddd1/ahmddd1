@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Ahmed 👋</h1>
-
+<h1 align="center">Hi, I'm Ahmed </h1>
 <h3 align="center">SOC Analyst | DFIR | Threat Hunting | Malware Analysis</h3>
 
 ---
@@ -19,31 +18,21 @@
   </a>
 </div>
 
-
-
-
 ---
 
-<!-- GIF في المنتصف -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pvNTN6bDQ2NzF5bWFuc2IyODZqeWpiOGFwc2xreDJqYXJya3E3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" height="out Me
-Dedicated SOC Analyst passionate about Threat Hunting, Digital Forensics, SIEM Engineering, and Malware Analysis.  
-Focused on building real-world labs, improving detection logic, and mastering incident response workflows.
-
-
-
-
-
----
-
-##  About Me
-Dedicated SOC Analyst passionate about Threat Hunting, Digital Forensics, SIEM Engineering, and Malware Analysis.  
-Focused on building real-world labs, improving detection logic, and mastering incident response workflows.
-
----
+  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" height="200" alt="Cyber GIF" />
 </div>
 
-##  Badges
+---
+
+## About Me
+Dedicated SOC Analyst passionate about **Threat Hunting, Digital Forensics, SIEM Engineering, and Malware Analysis**.  
+Focused on building real-world labs, improving detection logic, and mastering incident response workflows.
+
+---
+
+## Badges
 <p>
   <img src="https://img.shields.io/badge/Role-SOC%20Analyst-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Threat%20Hunting-purple?style=flat-square" />
@@ -53,41 +42,41 @@ Focused on building real-world labs, improving detection logic, and mastering in
 
 ---
 
+## Skills & Tools
 
-##  Skills & Tools
-
-###  SIEM & Detection Engineering
+### SIEM & Detection Engineering
 - Splunk • Wazuh • Elastic  
 - Log parsing & correlation  
 - Sigma rules  
 - Detection logic development  
 
-###  DFIR & Endpoint
+### DFIR & Endpoint
 - Sysmon • Velociraptor • KAPE  
 - Autoruns • Regshot  
 - Volatility Framework  
 
-###  Network Analysis
+### Network Analysis
 - Wireshark • Zeek  
 - PCAP investigation  
 
-###  Threat Intelligence
+### Threat Intelligence
 - VirusTotal • ANY.RUN • Hybrid Analysis • OTX  
 
-###  Programming & Scripting
+### Programming & Scripting
 - Python • Bash • Regex • API automation  
 
 ---
 
-##  Current Work
+## Current Work
 - Building **Professional SOC Playbooks**  
 - Writing **Sysmon + Sigma Detection Rules**  
 - Developing **Email Phishing Investigation Lab**  
 - Creating **SIEM Dashboards + Alerts Templates**  
 - Malware analysis (Static + Dynamic)  
 
+---
 
-## 📈 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmddd1&show_icons=true&theme=tokyonight" />
   <br>
@@ -96,18 +85,16 @@ Focused on building real-world labs, improving detection logic, and mastering in
 
 ---
 
-##  Highlighted Projects
+## Highlighted Projects
 - **Email Phishing Analyzer**  
-  Full SOC-grade email phishing analysis tool: fetches emails from IMAP, performs header analysis (SPF, DKIM, DMARC), extracts and checks URLs, analyzes attachments (hash, type, YARA rules), detects phishing in HTML content, integrates VirusTotal, and generates automated PDF/HTML reports with a web dashboard.  
+  SOC-grade email phishing analysis tool: fetches emails from IMAP, performs header analysis (SPF, DKIM, DMARC), extracts and checks URLs, analyzes attachments (hash, type, YARA rules), detects phishing in HTML content, integrates VirusTotal, and generates automated PDF/HTML reports with a web dashboard.  
   🔗 [GitHub Repository](https://github.com/ahmddd1/email-phishing-analyzer)
+
 - **Malware Analysis Lab**  
-  Basic static/dynamic analysis, IOC extraction, YARA patterns.  
+  Basic static/dynamic analysis, IOC extraction.  
 
 - **Sysmon Detection Project**  
   Custom rules, threat hunts, Sigma mappings, real-world use cases.  
 
 - **SIEM Engineering Lab**  
   Dashboards, alerts, custom correlation searches.  
-
----
-
