@@ -41,6 +41,7 @@ Dedicated SOC Analyst passionate about Threat Hunting, Digital Forensics, SIEM E
 Focused on building real-world labs, improving detection logic, and mastering incident response workflows.
 
 ---
+</div>
 
 ##  Badges
 <p>
@@ -51,7 +52,7 @@ Focused on building real-world labs, improving detection logic, and mastering in
 </p>
 
 ---
-</div>
+
 
 ##  Skills & Tools
 
